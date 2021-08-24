@@ -1,6 +1,5 @@
 node_modules/
-output/
-cache/
+site/
 
 .env
 **/.DS_Store
